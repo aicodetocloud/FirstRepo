@@ -1,0 +1,10 @@
+{
+  "name": "John Doe",
+  "age": 30,
+  "is_active": true,
+  "roles": ["user", "editor"],
+  "address": {
+    "city": "New York",
+    "zipcode": "10001"
+  }
+}
